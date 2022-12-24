@@ -1,5 +1,9 @@
-# Udemy_Complete-Python-3-Bootcamp
-https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+# Complete-Python-3-Bootcamp
+Course Files for Complete Python 3 Bootcamp Course on Udemy
 
-This is material associated with Udemy Python course, Complete-Python-3-Bootcamp. 
-I can make changes here and not worry about creating changes to the master file. 
+Copyright(©) by Pierian Data Inc.
+
+Get it now for 95% off with the link:
+https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+
+Thanks!
